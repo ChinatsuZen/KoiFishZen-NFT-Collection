@@ -1,9 +1,9 @@
 const contractAddress = "0x2ca62c425f2725429e85a9b2b2f282a9f542a2ca"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "The Zen Koi Fish NFT Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'This art and project is all about Zen lifestyle. One of clarity and mindset that’s all about accepting what you have and be grateful about it. We should look at our inner selves with openness and acceptance rather than judgment. In Japan, the koi fish is a symbol of luck, prosperity, and good fortune, so let it remind us, all of those things.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
